@@ -1,0 +1,39 @@
+<root>
+	<Quest>
+		<URL>https://app.integration.quest.nfq.asia</URL>
+			<!--
+ 			- @discard.email
+ 			- @cmail.club
+ 			-->
+		<EmailDomain>@gmail.com</EmailDomain>
+			<!--
+ 			- browserstack_chrome
+ 			- browserstack_firefox
+ 			- chrome
+ 			- firefox
+ 			- saucelab_chrome
+ 			-->
+		<RemoteEnvironment>chrome</RemoteEnvironment>
+			<!--
+ 			- yes
+ 			- no
+ 			-->
+		<HeadlessMode>no</HeadlessMode>
+		
+		<!--Parameters for SSH-->
+		<SSHHost>52.221.53.2</SSHHost>
+		<SSHUser>ubuntu</SSHUser>
+		<SSHPort>22</SSHPort>
+		
+		<!--Parameters for MYSQL-->
+		<DataBaseDriverName>xxx</DataBaseDriverName>
+		<DataBase2Url>xxx</DataBase2Url> 
+		
+		<DatabaseUsr>xxx</DatabaseUsr>
+		<DatabasePwd>xxx</DatabasePwd>
+		<!--Parameters for ELASTIC SEARCH-->
+		<ESIp>xxx</ESIp>
+		<ESPort>xxx</ESPort>
+		<ESProtocal>http</ESProtocal>
+	</Quest>
+</root>

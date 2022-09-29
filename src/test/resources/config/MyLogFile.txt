@@ -1,0 +1,73 @@
+
+-----------------------------------------------------------------------------------
+
+
+giang_female_7807@discard.email  ----  lms@123------female --Premium
+giang_male_6861@discard.email  ----  lms@123------male -----Payment last page
+giang_male_4746@discard.email  ----  lms@123------male
+giang_male_6458@discard.email  ----  lms@123------male
+giang_male_8693@discard.email  ----  lms@123------male --Premium
+giang_female_0688@discard.email  ----  lms@123------female
+giang_male_9394@discard.email  ----  lms@123------male
+giang_male_2990@discard.email  ----  lms@123------male---dang test
+
+
+
+giang_female_6557@discard.email  ----  lms@123------female
+giang_male_8321@discard.email  ----  lms@123------male
+giang_male_0375@discard.email  ----  lms@123------male -- basic
+giang_male_4899@discard.email  ----  lms@123------male --P0
+giang_male_4818@discard.email  ----  lms@123------male
+
+
+-----------------
+
+
+
+giang_female_6953@discard.email  ----  lms@123------female
+giang_female_8808@discard.email  ----  lms@123------female --Premium
+giang_male_5469@discard.email  ----  lms@123------male
+
+giang_male_7552@discard.email  ----  lms@123------male -- trong ko
+
+
+-------------------------
+giang_female_3211@discard.email
+
+giang_male_9621@discard.email ---P0 REJECTED
+giang_female_5674@discard.email
+
+giang_male_1151@discard.email  ----  lms@123------male
+giang_female_8576@discard.email  ----  lms@123------female
+giang_female_3887@discard.email  ----  lms@123------female
+giang_female_8624@discard.email  ----  lms@123------female
+giang_female_6546@discard.email  ----  lms@123------female
+giang_male_4598@discard.email  ----  lms@123------male
+giang_male_6649@discard.email  ----  lms@123------male
+giang_female_2288@discard.email  ----  lms@123------female
+giang_male_7997@discard.email  ----  lms@123------male
+-----
+
+giang_male_3685@discard.email  ----  lms@123------male --PO
+giang_male_0121@discard.email  ----  lms@123------male
+giang_male_9434@discard.email  ----  lms@123------male
+giang_male_4418@discard.email  ----  lms@123------male
+giang_male_3077@discard.email  ----  lms@123------male
+giang_female_2175@discard.email  ----  lms@123------female ---PremiumUpgr
+giang_female_4641@discard.email  ----  lms@123------female
+giang_female_2764@discard.email  ----  lms@123------female
+giang_female_2502@discard.email  ----  lms@123------female Basic 50%
+giang_male_4134@discard.email  ----  lms@123------male. ---Basic 50%
+giang_male_7461@discard.email  ----  lms@123------male -Basic 50%
+giang_female_3340@discard.email  ----  lms@123------female
+giang_female_1099@discard.email  ----  lms@123------female
+giang_male_0100@discard.email  ----  lms@123------male
+giang_female_5256@discard.email  ----  lms@123------female
+
+--------
+giang_male_0109@discard.email  ----  lms@123------male
+giang_male_3077@discard.email  ----  lms@123------male
+giang_female_2175@discard.email  ----  lms@123------female ---PremiumUpgr
+giang_female_4641@discard.email----  lms@123------male
+giang_male_3648@discard.email  ----  lms@123------male
+giang_male_8269@discard.email  ----  lms@123------male
